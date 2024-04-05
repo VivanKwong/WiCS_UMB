@@ -2,14 +2,16 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 20px;
+    align-items: flex-start;
+    gap: 8%;
   }
   
   .image {
-    width: 200px;
-    height: 200px;
+    width: 13%;
+    height: 13%;
     border-radius: 50%;
     overflow: hidden;
+    position: relative;
   }
   
   .image img {
@@ -19,5 +21,9 @@
   }
   
   .description {
+    margin-top: 2%;
     text-align: center;
+    bottom: 0;
+    padding-left: 1.25%;
+    padding-right: 1.25%;
   }
