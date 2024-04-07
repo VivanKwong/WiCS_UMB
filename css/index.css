@@ -6,7 +6,18 @@
     gap: 8%;
     position: relative;
 }
-  
+
+.content-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+}  
+.mission-statement {
+    flex-basis: 60%;
+    margin-right: 2rem;
+}
+
 .women-image {
     width: 20%;
     height: 20%;
