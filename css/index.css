@@ -7,6 +7,20 @@
     position: relative;
 }
   
+.women-image {
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
+    overflow: hidden;
+    position: relative;
+}
+  
+.women-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
 .image {
     width: 13%;
     height: 13%;
