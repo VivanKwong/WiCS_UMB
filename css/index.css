@@ -1,3 +1,17 @@
+.container-fluid {
+    display: flex;
+    margin-right: 2rem;
+    justify-content: center;
+    position: relative;
+}
+
+.collapse navbar-collapse {
+    display: flex;
+    margin-right: 2rem;
+    justify-content: center;
+    position: relative;
+}
+
 .container {
     display: flex;
     flex-wrap: wrap;
