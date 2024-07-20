@@ -15,10 +15,9 @@ body {
     margin-right: 2rem;
     justify-content: center;
     position: relative;
-}
-
-nav ul {
-list-style-type: none;
+    nav ul {
+    list-style-type: none;
+    }
 }
 
 .container {
