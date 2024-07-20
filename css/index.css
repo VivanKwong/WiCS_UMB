@@ -3,6 +3,9 @@
     margin-right: 2rem;
     justify-content: center;
     position: relative;
+}
+
+body {
     font-family: 'Frank Ruhl Libre', serif;
 }
 
@@ -27,7 +30,8 @@
     justify-content: space-between;
     align-items: center;
     margin-bottom: 2rem;
-}  
+} 
+
 .mission-statement {
     flex-basis: 60%;
     margin-right: 2rem;
