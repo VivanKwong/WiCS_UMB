@@ -7,6 +7,7 @@
 
 body {
     font-family: 'Frank Ruhl Libre', serif;
+    margin: 2rem;
 }
 
 .collapse navbar-collapse {
@@ -23,6 +24,7 @@ body {
     align-items: flex-start;
     gap: 8%;
     position: relative;
+    margin: 2rem;
 }
 
 .content-wrapper {
